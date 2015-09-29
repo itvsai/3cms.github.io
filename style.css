@@ -1,0 +1,60 @@
+/*
+Theme Name: 3CMS
+Theme URI: https://webdevelopetechnology.wordpress.com/themes/twentythirteen/
+Author: Hesham Hussain
+Author URI: https://webdevelopetechnology.wordpress.com/
+Description: The 2015 theme for WordPress takes us back to the blog, featuring a full range of post formats, each displayed beautifully in their own unique way. Design details abound, starting with a vibrant color scheme and matching header images, beautiful typography and icons, and a flexible layout that looks great on any device, big or small.
+Version: 1.0
+License: Apache v2 
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: black, brown, orange, tan, white, yellow, light, one-column, two-columns, right-sidebar, fluid-layout, responsive-layout, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, translation-ready, accessibility-ready
+Text Domain: 3CMS
+
+This theme is licensed under the apache v2 licence.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+body {
+	margin: 0;
+	padding: 0;
+}
+article,aside,details,figcaption,figure,footer,header,hgroup,
+main,menu,nav,section,summary {
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+/***********************/
+/*inline level elements*/
+/***********************/
+
+b, big, i, small, tt,
+abbr, acronym, cite, code, dfn, em, kbd, strong, samp, var,
+a, bdo, br, img, map, object, q, script, span, sub, sup,
+button, input, label, select, textarea {
+	margin: 0;
+	padding: 0;
+}
+
+/************************/
+/* Block Level Elements */
+/************************/
+address,article,aside,blockquote,canvas,dd,div,dl
+fieldset,figcaption ,figure ,footer,form,h1, h2, h3, h4, h5, h6,header,hgroup 
+hr,main,nav,noscript,ol,output ,p,pre,section,table,tfoot,ul,video {
+	margin: 0;
+	padding: 0;
+}
+
+li{
+	margin: 0;
+	padding: 0;
+}
+
+a:link , a:visited  {
+	color:#fff;
+	text-decoration: none;
+	text-align: center;
+	font-size: 20px;
+	font-family: fantasy;
+
+}
